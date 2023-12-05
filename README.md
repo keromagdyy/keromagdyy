@@ -28,7 +28,7 @@
 E-commerce application that serves the currencies of Eva Cosmetics. The customer can create an account and buy the company’s products and get offers, points and gifts if he is a regular customer, or create a busniss account if he is a subscriber in the application and get offers, discounts and cashbacks.
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.akhnaton.nettinghub4u" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+  <a href="https://play.google.com/store/apps/details?id=com.akhnaton.nettinghub4u" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> 
 <p>
 
 
@@ -40,7 +40,7 @@ E-commerce application that serves the currencies of Eva Cosmetics. The customer
 An application for making orders that serves all departments of the company, for each representative there is a daily itinerary for selling products to pharmacies and stores in general, you can place an order if you are a representative or approve the order if you are a supervisor or monitor if you are a manager where all the steps of the representative can be tracked by GPS by taking long and lat with Every visit to a customer, bearing in mind that the application is used online and offline, and you can create orders in both cases, and soon the application connects to the Internet and sends the data to the server.
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.akhnaton.foodvisits" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+  <a href="https://play.google.com/store/apps/details?id=com.akhnaton.foodvisits" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> 
 <p>
 
 
@@ -52,7 +52,7 @@ An application for making orders that serves all departments of the company, for
 An application that serves the stock market and real estate lovers, where you can create a specific property and share it with a purchase percentage with other sellers, you can buy and sell shares in the property and it is possible to negotiate with the seller through the application.
 
 <p>
-  <a href="https://drive.google.com/file/d/1lXBUFirxViKwgGSJRbhV1hJ5i04teI-y/view?usp=drive_link" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a> 
+  <a href="https://drive.google.com/file/d/1lXBUFirxViKwgGSJRbhV1hJ5i04teI-y/view?usp=drive_link" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white" /></a> 
 <p>
 
 ---
@@ -63,7 +63,7 @@ E-learning is an application for online private lessons for biology teachers tha
 
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.kerolosatya.e_learning" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>  <a href="https://play.google.com/store/apps/details?id=com.kerolosatya.e_learning" target="_blank"><img alt="Video" src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white" /></a> 
+  <a href="https://play.google.com/store/apps/details?id=com.kerolosatya.e_learning" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>  <a href="https://play.google.com/store/apps/details?id=com.kerolosatya.e_learning" target="_blank"><img alt="Video" src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white" /></a> 
 <p>
 
 
@@ -74,7 +74,7 @@ E-learning is an application for online private lessons for biology teachers tha
 An application for the famous hit egypt gym that serves gym subscribers in all its branches. A monthly or annual subscription can be booked from it. Sessions can be created and the branches available and near you can be found.
 
 <p>
-  <a href="https://drive.google.com/file/d/1GGDHowoKo7Uvv0PHDWzCc_qWMthgHfzY/view?usp=drive_link" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a> 
+  <a href="https://drive.google.com/file/d/1GGDHowoKo7Uvv0PHDWzCc_qWMthgHfzY/view?usp=drive_link" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white" /></a> 
 <p>
 
 ---
@@ -85,18 +85,21 @@ An application for Saudi Arabia that is similar to Twitter, but serves the follo
 
 
 <p>
-  <a href="https://drive.google.com/file/d/1ewIbllsnIqPSMnN9FA1IqPL7bP70U0Lw/view?usp=drive_link" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a> 
+  <a href="https://drive.google.com/file/d/1ewIbllsnIqPSMnN9FA1IqPL7bP70U0Lw/view?usp=drive_link" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white" /></a> 
 <p>
 
 
 ---
 
-### ATR Orders
+### Pregnancy tracker and calculator
 
-An application for making orders that serves all departments of the company, for each representative there is a daily itinerary for selling products to pharmacies and stores in general, you can place an order if you are a representative or approve the order if you are a supervisor or monitor if you are a manager where all the steps of the representative can be tracked by GPS by taking long and lat with Every visit to a customer, bearing in mind that the application is used online and offline, and you can create orders in both cases, and soon the application connects to the Internet and sends the data to the server.
+Ask the pregnant woman to enter her information and dates then the application calculate date of Birth and And which week and month she in, remaining days and the gone days and track her pregnancy day by day and present information for the current week and illustrative pictures.
+
+Using Kotlin, coroutines, Data Binding, Live Data, Navigation component, Google Admob, Upload app to Google Play, etc..
+
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.akhnaton.foodvisits" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+  <a href="https://play.google.com/store/apps/details?id=com.kerolosmagdy.pregnancycalculator&hl=ar&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> 
 <p>
 
 
