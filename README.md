@@ -25,7 +25,7 @@
 
 ### 4U NattingHub
 
-E-commerce application that serves the currencies of Eva Cosmetics. The customer can create an account and buy the company’s products and get offers, points and gifts if he is a regular customer, or create a busniss account if he is a subscriber in the application and get offers, discounts and cashbacks.
+E-commerce application that serves the currencies of Eva Cosmetics. The customer can create an account and buy the company’s products and get offers, points and gifts if he is a regular customer, or create a business account if he is a subscriber to the application and get offers, discounts, and cashbacks.
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.akhnaton.nettinghub4u" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> 
@@ -37,7 +37,7 @@ E-commerce application that serves the currencies of Eva Cosmetics. The customer
 
 ### ATR Orders
 
-An application for making orders that serves all departments of the company, for each representative there is a daily itinerary for selling products to pharmacies and stores in general, you can place an order if you are a representative or approve the order if you are a supervisor or monitor if you are a manager where all the steps of the representative can be tracked by GPS by taking long and lat with Every visit to a customer, bearing in mind that the application is used online and offline, and you can create orders in both cases, and soon the application connects to the Internet and sends the data to the server.
+An application for making orders that serves all departments of the company, for each representative there is a daily itinerary for selling products to pharmacies and stores in general, you can place an order if you are a representative or approve the order if you are a supervisor or monitor if you are a manager where GPS can track all the steps of the representative by taking long and lat with Every visit to a customer, bearing in mind that the application is used online and offline, and you can create orders in both cases, and soon the application connects to the Internet and sends the data to the server.
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.akhnaton.foodvisits" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> 
@@ -59,7 +59,7 @@ An application that serves the stock market and real estate lovers, where you ca
 
 ### حكواتى للأحياء
 
-E-learning is an application for online private lessons for biology teachers that completes the units and lessons of the classroom and displays explanation videos for the teacher. On each lesson, the application was created entirely with Firebase.
+E-learning is an application for online private lessons for biology teachers that completes the units and lessons in the classroom and displays explanation videos for the teacher. In each lesson, the application was created entirely with Firebase.
 
 
 <p>
@@ -71,7 +71,7 @@ E-learning is an application for online private lessons for biology teachers tha
 
 ### Hit Egypt
 
-An application for the famous hit egypt gym that serves gym subscribers in all its branches. A monthly or annual subscription can be booked from it. Sessions can be created and the branches available and near you can be found.
+An application for the famous hit Egypt gym that serves gym subscribers in all its branches. A monthly or annual subscription can be booked from it. Sessions can be created and the branches available and near you can be found.
 
 <p>
   <a href="https://drive.google.com/file/d/1GGDHowoKo7Uvv0PHDWzCc_qWMthgHfzY/view?usp=drive_link" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=for-the-badge&logo=Google-Drive&logoColor=white" /></a> 
@@ -81,7 +81,7 @@ An application for the famous hit egypt gym that serves gym subscribers in all i
 
 ### Cryptip
 
-An application for Saudi Arabia that is similar to Twitter, but serves the followers of digital currencies and their circulation, where it is possible to create a regular user or a digital currency user, and publications posts can be added, make likes, republished, and followed by users, and rooms can be created to make individual or group voice and video calls such as Zoom and Viber, and rooms can also be used to conduct text conversations.
+An application for Saudi Arabia that is similar to Twitter, but serves the followers of digital currencies and their circulation, where it is possible to create a regular user or a digital currency user, and publications posts can be added, make likes, republished, and followed by users. Rooms can be created to make individual or group voice and video calls such as Zoom and Viber, and rooms can also be used to conduct text conversations.
 
 
 <p>
@@ -93,7 +93,7 @@ An application for Saudi Arabia that is similar to Twitter, but serves the follo
 
 ### Pregnancy tracker and calculator
 
-Ask the pregnant woman to enter her information and dates then the application calculate date of Birth and And which week and month she in, remaining days and the gone days and track her pregnancy day by day and present information for the current week and illustrative pictures.
+Ask the pregnant woman to enter her information and dates, then the application calculates the date of Birth and which week and month she is in, the remaining days and the gone days, and tracks her pregnancy day by day and presents information for the current week and illustrative pictures.
 
 Using Kotlin, coroutines, Data Binding, Live Data, Navigation component, Google Admob, Upload app to Google Play, etc..
 
@@ -103,7 +103,31 @@ Using Kotlin, coroutines, Data Binding, Live Data, Navigation component, Google 
 <p>
 
 
+-----
+
+<h2> Patterns </h2>
+
+### MVVM
+
+
+<p>
+  <a href="https://github.com/keromagdyy/mvvm_pattern" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
+<p>
+
+
 ---
+
+
+### MVI
+
+
+<p>
+  <a href="https://github.com/keromagdyy/mvi_pattern" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
+<p>
+
+
+---
+
 
 
 
