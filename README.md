@@ -24,6 +24,23 @@
 
 <h2> projects </h2>
 
+### ROVI Food
+
+All-in-one delivery platform, available on Android, iOS, and the web, it's two apps for Android User app and a Delivery App, designed to streamline food delivery services in Egypt, UAE, and the Gulf region. Users can browse restaurant offers, place orders, and choose to pay online or with cash. The app features a wallet and real-time order tracking.
+
+When an order is placed, it's sent to the restaurant and a notification is sent to the delivery app. Delivery personnel receive notifications, can accept or reject orders, and track current and past deliveries. They can also update the order status, ensuring users stay informed about their delivery.
+
+
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.shutdownSolution.rovi" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> 
+<p>
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.shutdownSolution.roviDelivery" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a> 
+<p>
+
+
+---
+
 ### 4U NattingHub
 
 E-commerce application that serves the currencies of Eva Cosmetics. The customer can create an account and buy the company’s products and get offers, points and gifts if he is a regular customer, or create a business account if he is a subscriber to the application and get offers, discounts, and cashbacks.
