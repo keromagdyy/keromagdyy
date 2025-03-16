@@ -13,17 +13,19 @@
 * Linkedin : https://www.linkedin.com/in/kerolos-magdy-6a86b9151/
 * Behance : https://www.behance.net/keromagdy6/
 
-<div style="display: flex; align-items: center; gap: 8px;">
-  <span>Rovi Food</span>
+<div style="display: inline-flex; align-items: center; gap: 8px;">
+  <span>Rovi Food (Customer) :</span>
   <a href="https://play.google.com/store/apps/details?id=com.shutdownSolution.rovi" target="_blank">
-    <img alt="Google Play (ROVI Food)" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+    <img alt="Google Play (ROVI Food)" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" style="vertical-align: middle;" />
   </a>  
 </div>
 
-<div style="display: flex; align-items: center; gap: 8px;">
-  <span>Rovi Rider</span>
+<br>
+
+<div style="display: inline-flex; align-items: center; gap: 8px;">
+  <span>Rovi Rider (Driver) :</span>
   <a href="https://play.google.com/store/apps/details?id=com.shutdownSolution.roviDelivery" target="_blank">
-    <img alt="Google Play (ROVI Rider)" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+    <img alt="Google Play (ROVI Rider)" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" style="vertical-align: middle;" />
   </a>  
 </div>
 
