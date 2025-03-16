@@ -13,12 +13,20 @@
 * Linkedin : https://www.linkedin.com/in/kerolos-magdy-6a86b9151/
 * Behance : https://www.behance.net/keromagdy6/
 
-<p> 
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKjRCcHtzsPdgdFFgCpSFdBDfcTPdnCFTNqdzbkCgGCJcsPxLsDmSQTnZLdLgHHCzlKnZss" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kerolos-magdy-6a86b9151/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://www.behance.net/keromagdy6/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://wa.me/qr/ATWB4H4GRYRGH1" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <p>
+<div style="display: flex; align-items: center; gap: 8px;">
+  <span>Rovi Food</span>
+  <a href="https://play.google.com/store/apps/details?id=com.shutdownSolution.rovi" target="_blank">
+    <img alt="Google Play (ROVI Food)" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>  
+</div>
+
+<div style="display: flex; align-items: center; gap: 8px;">
+  <span>Rovi Rider</span>
+  <a href="https://play.google.com/store/apps/details?id=com.shutdownSolution.roviDelivery" target="_blank">
+    <img alt="Google Play (ROVI Rider)" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>  
+</div>
+
 
 ---
 
@@ -32,7 +40,7 @@ When an order is placed, it's sent to the restaurant and a notification is sent 
 
 
 <p>
-  <span>Rovi Food (Customer): </span>
+  <span>Rovi Food (Customer) : </span>
   <a href="https://play.google.com/store/apps/details?id=com.shutdownSolution.rovi" target="_blank">
     <img alt="Google Play (ROVI Food)" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>  
